@@ -1,4 +1,4 @@
 # organi-JS
-Sistema para organizar os gastos, desenvolvido em JavaScript e Bootstrap com o uso do localStorage do navegador.
+System to sort spending, made in JavaScript and Bootstrap with localStorage usage.
 
-Para ver o projeto online [clique aqui](https://organi-js.vercel.app/index.html)
+To see the deployed version of the project [click here](https://organi-js.vercel.app/index.html)
